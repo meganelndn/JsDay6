@@ -1,0 +1,6 @@
+.colorInvalid {
+    border: 2px solid red;
+}
+.colorValid {
+    border: 2px solid green;
+}
